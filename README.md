@@ -1,7 +1,7 @@
 # PhotoWall
  * The Project is implemented through ReactJS, a popular JavaScript library for building user interfaces.
- * In this Project one can upload thier post with simple add icon thereby the user can Insert Image Link with corresponding description of it.
- * On adding the post it reflect at the main page wherein the new image posted will be appended with description with help of `State` functionality present in ReactJS.
+ * In this Project one can upload their post with simple Add icon thereby the user can Insert Image Link with corresponding description of it.
+ * On adding the post gets reflected on the main(Index) page wherein the new image posted will be appended with description due to (`State` and `props` ) functionality in ReactJS.
  * Working of this Project is attached as Screenshots specified in `Screenshots` folder attached to the branch.  
 
 
